@@ -37,3 +37,5 @@ mod "role",
 # Modules from GitHub
 mod "ruby_version",
   :git => "git://github.com/bartlomiej2/ruby_version"
+mod "gitlab",
+  :git => "git://github.com/bartlomiej2/gitlab"
