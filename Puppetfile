@@ -33,3 +33,7 @@ mod "profile",
   :git => "git://github.com/bartlomiej2/profile"
 mod "role",
   :git => "git://github.com/bartlomiej2/role"
+
+# Modules from GitHub
+mod "ruby_version",
+  :git => "git://github.com/bartlomiej2/ruby_version"
