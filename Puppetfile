@@ -1,0 +1,15 @@
+forge "http://forge.puppetlabs.com"
+
+# Modules from the Puppet Forge
+mod "fsalum/redis", "1.0.2"
+mod "maestrodev/rvm", "1.7.0"
+mod "puppetlabs/apache", "1.2.0"
+mod "puppetlabs/apt", "1.7.0"
+mod "puppetlabs/concat", "1.1.2"
+mod "puppetlabs/firewall", "1.2.0"
+mod "puppetlabs/inifile", "1.2.0"
+mod "puppetlabs/puppetdb", "4.1.0"
+mod "puppetlabs/postgresql", "4.1.0"
+mod "puppetlabs/stdlib", "4.4.0"
+mod "puppetlabs/vcsrepo", "1.2.0"
+mod "thias/sysctl", "1.0.0"
